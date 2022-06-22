@@ -64,3 +64,8 @@ if newstring.isalpha() :
     print("you entered alphabets")
 else:
     print("you entered numeric")
+
+"""
+https://www.w3schools.com/python/python_strings_methods.asp
+https://www.w3schools.com/python/python_strings_exercises.asp
+"""
