@@ -16,7 +16,6 @@ I want the first letter of each word. USA and DR
 
 """
 
-"""
 name = "United States of America"
 #a string is array of characters
 #  [U][n][i][t][e][d] 0.1....
@@ -38,7 +37,7 @@ sampletext =" Hello this is python kids class     "
 print(sampletext)
 print(sampletext.strip() )
 print(sampletext.replace("s", "S"))
-"""
+
 
 line = "Bushra grade5 good A+,Ishan grade6 Awesome B,Harsit grade6 nice A"
 print(line)
