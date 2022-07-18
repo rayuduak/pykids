@@ -37,7 +37,10 @@ print("Question - what are the common items in the fruits and vegs array/list ")
 for f in fruits:
     for v in vegs:
 # fill the code here....
-
+        if str(f) == str(v):
+            print(f + "-" + v + " is same ")
+        #else:
+            #print( f + "-" + v + " not common")
 
 # homework - try to use how to sort the list, how to reverse sort, copy one list to othrs, find all other methods
 
