@@ -5,3 +5,6 @@ python for kids
 2. variables.py
 3. learnstrings.py
 4. array_list.py
+5. tuples_sets_dicts.py
+6. functions.py
+7. Bankfile.py
