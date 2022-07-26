@@ -1,0 +1,30 @@
+# Each kid do this and write down how many you got and something not uderstood refer to w3schools of this topic
+# all this are covered topics.
+
+https://pynative.com/basic-python-quiz-for-beginners/
+
+https://pynative.com/python-variables-and-data-types-quiz/
+
+https://pynative.com/python-variables-and-data-types-quiz/
+
+https://pynative.com/python-operators-and-expression-quiz/
+
+https://pynative.com/python-input-and-output-quiz/
+
+https://pynative.com/python-functions-quiz/
+
+https://pynative.com/python-if-else-and-for-loop-quiz/
+
+https://pynative.com/python-numbers-quiz/
+
+https://pynative.com/python-string-quiz/
+
+https://pynative.com/python-if-else-and-for-loop-quiz
+
+https://pynative.com/python-list-quiz/
+
+https://pynative.com/python-set-quiz/
+
+https://pynative.com/python-tuple-quiz/
+
+https://pynative.com/python-dictionary-quiz/
