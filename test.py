@@ -17,3 +17,6 @@ else:
 print(s)
 print(s[::-1])
 
+aTuple = "Yellow", 20, "Red"
+a, b, c = aTuple
+print(a)
