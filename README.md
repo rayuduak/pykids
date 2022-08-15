@@ -8,3 +8,5 @@ python for kids
 5. tuples_sets_dicts.py
 6. functions.py
 7. Bankfile.py
+8. classobjects.py
+9. carproject.py
